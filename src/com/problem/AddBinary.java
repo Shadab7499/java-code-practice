@@ -14,6 +14,7 @@ public class AddBinary {
 		{
 			String x = "010101", y = "101010";
 			System.out.println(add_binary(x,y));
+			System.out.println("Result: "+add_binary(x,y));
 		}
 
 	}
